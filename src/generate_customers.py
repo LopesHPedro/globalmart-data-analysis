@@ -8,3 +8,6 @@ fake = Faker()
 np.random.seed(42) # for reproducibility
 
 N_CUSTOMERS = 10_000
+
+customers_ids = [str(uuid4()) for _ in range(N_CUSTOMERS)]
+customers_names = [fake.name() for _ in range(N_CUSTOMERS)]
