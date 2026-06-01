@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
 
-np.random.seed() # For reproducibility
+np.random.seed(42) # For reproducibility
 
 N_PRODUCTS = 500
 
@@ -26,6 +26,32 @@ categories_weights = {
 prefixes = ["Super", "Ultra", "Mega", "Eco", "Pro", "Smart", "Easy", "Quick", "Best", "New"]    
 suffixes = ["X", "Plus", "Max", "Pro", "Lite", "Go", "Air", "One", "Prime", "Elite"]
 
-# Teste
-selected_category = np.random.choice(list(categories.keys()), p=list(categories_weights.values())) # Only works because the keys and values are in the same order
-print(np.random.choice(prefixes),np.random.choice(categories[selected_category]), np.random.choice(suffixes))
+category_prefixes = {
+    "Books": "BOOK",
+    "Electronics": "ELEC",
+    "Makeup": "MAKE",
+    "Garden": "GARD",
+    "Fashion": "FASH",
+    "Sports": "SPOR"
+}
+
+category_counters = {
+    "Books": 0,
+    "Electronics": 0,
+    "Makeup": 0,
+    "Garden": 0,
+    "Fashion": 0,
+    "Sports": 0
+}
+
+selected_category = np.random.choice(
+    list(categories.keys()),
+    p=list(categories_weights.values())
+)
+
+category_counters[selected_category] += 1
+
+product_id = f"{category_prefixes[selected_category]}-{str(category_counters[selected_category]).zfill(4)}"
+product_name = f"{np.random.choice(prefixes)} {np.random.choice(categories[selected_category])} {np.random.choice(suffixes)}"
+
+print(product_id, selected_category, product_name)
