@@ -1,0 +1,501 @@
+product_id,category,product_name
+ELEC-0001,Electronics,Quick Tablet Lite
+ELEC-0002,Electronics,Mega Headphones One
+ELEC-0003,Electronics,Quick Headphones Go
+BOOK-0001,Books,Quick Science Book Go
+BOOK-0002,Books,Pro Novel Elite
+MAKE-0001,Makeup,Best Lipstick Elite
+BOOK-0003,Books,Mega Science Book Air
+SPOR-0001,Sports,Best Running Shoes Lite
+FASH-0001,Fashion,Pro T-Shirt Air
+BOOK-0004,Books,Best Science Book Plus
+ELEC-0004,Electronics,New Tablet Plus
+FASH-0002,Fashion,Easy Jacket One
+BOOK-0005,Books,Super Science Book Plus
+FASH-0003,Fashion,Ultra Jeans Pro
+ELEC-0005,Electronics,Ultra Laptop Plus
+ELEC-0006,Electronics,Eco Smartwatch Prime
+SPOR-0002,Sports,Pro Backpack Plus
+MAKE-0002,Makeup,Quick Foundation Prime
+ELEC-0007,Electronics,Best Tablet X
+BOOK-0006,Books,Best Novel One
+BOOK-0007,Books,Mega Novel One
+FASH-0004,Fashion,Super Sneakers Lite
+SPOR-0003,Sports,New Football Air
+SPOR-0004,Sports,Ultra Football Air
+ELEC-0008,Electronics,Quick Tablet Max
+GARD-0001,Garden,Smart Flower Seeds Max
+MAKE-0003,Makeup,Pro Mascara X
+FASH-0005,Fashion,Easy Sneakers Prime
+FASH-0006,Fashion,New Jeans Max
+BOOK-0008,Books,Easy Novel Pro
+GARD-0002,Garden,Eco Soil Bag Air
+FASH-0007,Fashion,Eco Dress Air
+ELEC-0009,Electronics,Smart Smartwatch Plus
+FASH-0008,Fashion,Best Dress Go
+MAKE-0004,Makeup,Eco Mascara Elite
+BOOK-0009,Books,Best Novel X
+ELEC-0010,Electronics,Best Smartwatch Prime
+ELEC-0011,Electronics,Smart Headphones Prime
+MAKE-0005,Makeup,Super Mascara Elite
+ELEC-0012,Electronics,Smart Smartphone Pro
+ELEC-0013,Electronics,Super Laptop Pro
+ELEC-0014,Electronics,Easy Laptop Max
+ELEC-0015,Electronics,Super Smartphone X
+SPOR-0005,Sports,Smart Backpack X
+FASH-0009,Fashion,Ultra Dress Elite
+SPOR-0006,Sports,Easy Dumbbell Air
+FASH-0010,Fashion,Super Dress Pro
+SPOR-0007,Sports,Smart Running Shoes X
+ELEC-0016,Electronics,Smart Tablet Max
+GARD-0003,Garden,Eco Flower Seeds Elite
+MAKE-0006,Makeup,Mega Eyeliner Air
+ELEC-0017,Electronics,Super Laptop One
+BOOK-0010,Books,Best Novel Plus
+SPOR-0008,Sports,New Running Shoes Air
+FASH-0011,Fashion,New T-Shirt Pro
+MAKE-0007,Makeup,Ultra Lipstick Lite
+SPOR-0009,Sports,Easy Football Prime
+ELEC-0018,Electronics,Mega Smartwatch One
+ELEC-0019,Electronics,Super Smartwatch X
+ELEC-0020,Electronics,Smart Smartwatch Max
+ELEC-0021,Electronics,Best Headphones Prime
+BOOK-0011,Books,Ultra Cookbook Go
+ELEC-0022,Electronics,Best Smartwatch X
+BOOK-0012,Books,Pro Science Book One
+FASH-0012,Fashion,Easy Sneakers X
+ELEC-0023,Electronics,Mega Tablet Max
+SPOR-0010,Sports,Ultra Backpack X
+GARD-0004,Garden,Super Soil Bag Max
+GARD-0005,Garden,Super Plant Pot Lite
+SPOR-0011,Sports,Best Backpack One
+ELEC-0024,Electronics,Pro Headphones X
+BOOK-0013,Books,Pro Novel Max
+ELEC-0025,Electronics,Best Laptop Go
+FASH-0013,Fashion,Quick Jeans Go
+ELEC-0026,Electronics,New Laptop Elite
+FASH-0014,Fashion,Super T-Shirt Go
+ELEC-0027,Electronics,New Laptop Max
+ELEC-0028,Electronics,Quick Tablet Elite
+BOOK-0014,Books,Eco Biography Pro
+FASH-0015,Fashion,Mega Jacket Plus
+BOOK-0015,Books,Easy History Book Prime
+ELEC-0029,Electronics,Smart Laptop Elite
+BOOK-0016,Books,Eco Cookbook Go
+ELEC-0030,Electronics,Pro Smartphone One
+FASH-0016,Fashion,Pro Jacket Go
+BOOK-0017,Books,Eco History Book Air
+BOOK-0018,Books,Ultra Science Book Elite
+ELEC-0031,Electronics,Super Headphones Elite
+BOOK-0019,Books,Pro Cookbook Lite
+BOOK-0020,Books,Best Science Book Lite
+BOOK-0021,Books,New Novel Plus
+ELEC-0032,Electronics,Smart Smartphone One
+SPOR-0012,Sports,Super Backpack Air
+FASH-0017,Fashion,Pro Dress Air
+BOOK-0022,Books,New History Book Lite
+BOOK-0023,Books,Pro Novel Pro
+ELEC-0033,Electronics,New Laptop Lite
+MAKE-0008,Makeup,Super Blush Air
+BOOK-0024,Books,Smart Biography Pro
+BOOK-0025,Books,New Cookbook Max
+MAKE-0009,Makeup,Super Blush Pro
+FASH-0018,Fashion,Easy Jeans X
+SPOR-0013,Sports,Eco Dumbbell Plus
+GARD-0006,Garden,Super Plant Pot Max
+SPOR-0014,Sports,Mega Football X
+FASH-0019,Fashion,Ultra Dress Max
+FASH-0020,Fashion,Easy T-Shirt Elite
+ELEC-0034,Electronics,New Laptop Elite
+ELEC-0035,Electronics,Mega Smartphone Air
+BOOK-0026,Books,Pro Cookbook One
+FASH-0021,Fashion,Pro Dress Prime
+MAKE-0010,Makeup,Pro Lipstick One
+SPOR-0015,Sports,Super Running Shoes Pro
+ELEC-0036,Electronics,Easy Tablet X
+FASH-0022,Fashion,Easy T-Shirt Max
+BOOK-0027,Books,Super Novel Pro
+SPOR-0016,Sports,Smart Backpack Max
+ELEC-0037,Electronics,Best Headphones Prime
+ELEC-0038,Electronics,Eco Headphones Elite
+FASH-0023,Fashion,Pro Dress Max
+FASH-0024,Fashion,Eco Sneakers Lite
+FASH-0025,Fashion,Easy T-Shirt Air
+BOOK-0028,Books,New Cookbook Air
+SPOR-0017,Sports,New Backpack Max
+SPOR-0018,Sports,Ultra Dumbbell Prime
+FASH-0026,Fashion,Super Dress Go
+BOOK-0029,Books,Quick Cookbook Prime
+SPOR-0019,Sports,New Yoga Mat Lite
+MAKE-0011,Makeup,Smart Mascara One
+ELEC-0039,Electronics,Super Smartwatch X
+SPOR-0020,Sports,Best Backpack Pro
+ELEC-0040,Electronics,Mega Tablet Go
+FASH-0027,Fashion,New Jeans Max
+BOOK-0030,Books,Mega Biography Plus
+MAKE-0012,Makeup,New Eyeliner One
+BOOK-0031,Books,Best Novel Max
+GARD-0007,Garden,Best Pruning Shears X
+BOOK-0032,Books,Super Biography Go
+SPOR-0021,Sports,Pro Backpack Lite
+ELEC-0041,Electronics,Mega Smartwatch Prime
+MAKE-0013,Makeup,Best Lipstick X
+FASH-0028,Fashion,Smart Sneakers Air
+BOOK-0033,Books,New Science Book One
+FASH-0029,Fashion,Quick Jeans Pro
+MAKE-0014,Makeup,New Eyeliner Plus
+ELEC-0042,Electronics,Pro Smartphone Pro
+SPOR-0022,Sports,Smart Football Prime
+ELEC-0043,Electronics,Eco Tablet Max
+SPOR-0023,Sports,Ultra Running Shoes Lite
+FASH-0030,Fashion,Ultra Jeans One
+SPOR-0024,Sports,Pro Football Go
+SPOR-0025,Sports,Super Running Shoes Lite
+FASH-0031,Fashion,Best Sneakers X
+SPOR-0026,Sports,Ultra Football Max
+BOOK-0034,Books,Pro Science Book X
+MAKE-0015,Makeup,Pro Mascara Lite
+GARD-0008,Garden,Pro Soil Bag Elite
+SPOR-0027,Sports,Super Backpack Prime
+BOOK-0035,Books,Mega Biography Pro
+ELEC-0044,Electronics,Super Laptop One
+BOOK-0036,Books,New Cookbook Go
+FASH-0032,Fashion,Ultra Jacket X
+GARD-0009,Garden,Pro Flower Seeds Prime
+GARD-0010,Garden,Easy Soil Bag Lite
+FASH-0033,Fashion,Mega Jacket Plus
+ELEC-0045,Electronics,Ultra Laptop Max
+SPOR-0028,Sports,Eco Football Go
+MAKE-0016,Makeup,Easy Foundation Max
+FASH-0034,Fashion,Eco Jeans One
+SPOR-0029,Sports,Super Dumbbell Pro
+MAKE-0017,Makeup,Ultra Blush Plus
+ELEC-0046,Electronics,Mega Smartphone Air
+BOOK-0037,Books,Smart Science Book One
+FASH-0035,Fashion,Best Sneakers Max
+MAKE-0018,Makeup,Ultra Blush Elite
+ELEC-0047,Electronics,Pro Tablet Plus
+ELEC-0048,Electronics,Smart Tablet Go
+BOOK-0038,Books,Best Science Book Elite
+SPOR-0030,Sports,Super Yoga Mat Prime
+BOOK-0039,Books,Best History Book X
+ELEC-0049,Electronics,Super Smartphone Max
+ELEC-0050,Electronics,Quick Laptop Air
+MAKE-0019,Makeup,Ultra Blush Elite
+BOOK-0040,Books,Quick History Book Air
+FASH-0036,Fashion,Easy Sneakers Plus
+ELEC-0051,Electronics,Mega Headphones Prime
+FASH-0037,Fashion,New T-Shirt X
+ELEC-0052,Electronics,New Smartwatch Prime
+SPOR-0031,Sports,Eco Football Pro
+ELEC-0053,Electronics,Best Tablet Plus
+BOOK-0041,Books,Smart Cookbook One
+GARD-0011,Garden,Mega Garden Hose Prime
+ELEC-0054,Electronics,Eco Laptop Plus
+ELEC-0055,Electronics,Smart Tablet Prime
+ELEC-0056,Electronics,Smart Tablet Go
+ELEC-0057,Electronics,Eco Headphones One
+SPOR-0032,Sports,Easy Running Shoes Max
+BOOK-0042,Books,Pro Science Book One
+BOOK-0043,Books,Ultra Science Book Pro
+BOOK-0044,Books,Smart Novel One
+FASH-0038,Fashion,Best Jeans One
+MAKE-0020,Makeup,Pro Foundation Go
+FASH-0039,Fashion,Eco T-Shirt Pro
+ELEC-0058,Electronics,Super Laptop Go
+GARD-0012,Garden,Eco Soil Bag Max
+BOOK-0045,Books,Ultra Cookbook Lite
+BOOK-0046,Books,Ultra Biography One
+SPOR-0033,Sports,Super Backpack Prime
+FASH-0040,Fashion,Quick Sneakers X
+SPOR-0034,Sports,Ultra Backpack One
+SPOR-0035,Sports,Ultra Dumbbell Max
+BOOK-0047,Books,Quick Science Book One
+SPOR-0036,Sports,Pro Dumbbell Max
+ELEC-0059,Electronics,Pro Headphones Elite
+SPOR-0037,Sports,Best Backpack Elite
+ELEC-0060,Electronics,Quick Headphones Go
+MAKE-0021,Makeup,Super Lipstick X
+SPOR-0038,Sports,Easy Yoga Mat Lite
+SPOR-0039,Sports,Mega Running Shoes Go
+SPOR-0040,Sports,Easy Running Shoes One
+FASH-0041,Fashion,Eco Dress X
+MAKE-0022,Makeup,Easy Mascara Pro
+SPOR-0041,Sports,Best Football Lite
+FASH-0042,Fashion,Super Jacket Go
+FASH-0043,Fashion,Pro Sneakers Elite
+ELEC-0061,Electronics,Smart Tablet Pro
+MAKE-0023,Makeup,Eco Blush One
+BOOK-0048,Books,Eco Science Book Plus
+BOOK-0049,Books,Mega History Book Pro
+MAKE-0024,Makeup,Pro Eyeliner Elite
+ELEC-0062,Electronics,Smart Laptop Elite
+GARD-0013,Garden,Ultra Plant Pot X
+BOOK-0050,Books,Eco Science Book Lite
+SPOR-0042,Sports,Quick Yoga Mat X
+GARD-0014,Garden,New Plant Pot Go
+BOOK-0051,Books,Quick Novel Go
+SPOR-0043,Sports,Super Backpack Lite
+ELEC-0063,Electronics,Eco Smartphone X
+SPOR-0044,Sports,Easy Running Shoes One
+FASH-0044,Fashion,Best Dress Prime
+ELEC-0064,Electronics,Best Tablet Elite
+ELEC-0065,Electronics,Eco Smartphone Elite
+SPOR-0045,Sports,Ultra Yoga Mat Plus
+SPOR-0046,Sports,Mega Football Air
+ELEC-0066,Electronics,Pro Smartphone X
+FASH-0045,Fashion,Smart Jeans Plus
+FASH-0046,Fashion,Easy T-Shirt Pro
+MAKE-0025,Makeup,Eco Eyeliner One
+MAKE-0026,Makeup,Super Blush Air
+ELEC-0067,Electronics,Quick Headphones X
+BOOK-0052,Books,Quick History Book Plus
+ELEC-0068,Electronics,Mega Laptop Plus
+MAKE-0027,Makeup,Super Foundation Go
+FASH-0047,Fashion,Eco T-Shirt One
+SPOR-0047,Sports,Easy Running Shoes Elite
+ELEC-0069,Electronics,Ultra Smartwatch X
+BOOK-0053,Books,Ultra Biography One
+BOOK-0054,Books,Easy History Book One
+ELEC-0070,Electronics,Quick Smartphone Lite
+ELEC-0071,Electronics,Super Smartwatch One
+BOOK-0055,Books,Quick History Book Pro
+SPOR-0048,Sports,Smart Backpack Air
+SPOR-0049,Sports,Easy Yoga Mat Air
+FASH-0048,Fashion,Pro Sneakers Max
+GARD-0015,Garden,Ultra Garden Hose X
+SPOR-0050,Sports,Eco Running Shoes Elite
+SPOR-0051,Sports,Mega Dumbbell Pro
+FASH-0049,Fashion,Smart T-Shirt Plus
+SPOR-0052,Sports,Mega Dumbbell Elite
+FASH-0050,Fashion,Quick T-Shirt Elite
+GARD-0016,Garden,Easy Plant Pot Plus
+BOOK-0056,Books,Best Cookbook Prime
+ELEC-0072,Electronics,Smart Headphones Pro
+BOOK-0057,Books,Ultra Biography Go
+SPOR-0053,Sports,Pro Yoga Mat Pro
+MAKE-0028,Makeup,Ultra Lipstick Lite
+FASH-0051,Fashion,New Jacket Air
+BOOK-0058,Books,Smart Biography Prime
+ELEC-0073,Electronics,Quick Laptop Prime
+MAKE-0029,Makeup,New Blush X
+ELEC-0074,Electronics,New Laptop Go
+FASH-0052,Fashion,Mega Dress Pro
+FASH-0053,Fashion,Pro Sneakers One
+ELEC-0075,Electronics,Eco Smartphone Air
+FASH-0054,Fashion,Smart Jeans Air
+FASH-0055,Fashion,Smart Dress One
+ELEC-0076,Electronics,Eco Smartwatch Max
+GARD-0017,Garden,Super Flower Seeds Plus
+FASH-0056,Fashion,Ultra Dress Prime
+BOOK-0059,Books,Super Novel Prime
+FASH-0057,Fashion,Quick Jeans Prime
+ELEC-0077,Electronics,Mega Laptop Lite
+BOOK-0060,Books,Mega Cookbook Max
+ELEC-0078,Electronics,Super Tablet X
+SPOR-0054,Sports,Easy Football One
+FASH-0058,Fashion,Pro T-Shirt Air
+FASH-0059,Fashion,Smart T-Shirt Plus
+MAKE-0030,Makeup,New Lipstick Elite
+BOOK-0061,Books,New Novel Air
+GARD-0018,Garden,Smart Garden Hose Air
+BOOK-0062,Books,Pro Novel Max
+SPOR-0055,Sports,Ultra Running Shoes Air
+FASH-0060,Fashion,Eco Sneakers Plus
+MAKE-0031,Makeup,Easy Lipstick One
+ELEC-0079,Electronics,Ultra Headphones Lite
+MAKE-0032,Makeup,New Eyeliner Air
+ELEC-0080,Electronics,Super Smartwatch Go
+ELEC-0081,Electronics,Ultra Smartphone Elite
+SPOR-0056,Sports,Ultra Running Shoes Elite
+SPOR-0057,Sports,Easy Backpack Plus
+SPOR-0058,Sports,Mega Running Shoes Air
+BOOK-0063,Books,Super Biography Lite
+MAKE-0033,Makeup,Quick Eyeliner Prime
+FASH-0061,Fashion,Best Jacket Lite
+FASH-0062,Fashion,Super Sneakers One
+ELEC-0082,Electronics,Eco Laptop Lite
+BOOK-0064,Books,Super Biography Prime
+BOOK-0065,Books,Best Science Book Elite
+FASH-0063,Fashion,Pro Sneakers Go
+SPOR-0059,Sports,Quick Running Shoes Plus
+ELEC-0083,Electronics,Eco Smartwatch One
+SPOR-0060,Sports,Smart Backpack Max
+MAKE-0034,Makeup,New Mascara Plus
+ELEC-0084,Electronics,Best Smartphone Elite
+FASH-0064,Fashion,Smart Dress Lite
+FASH-0065,Fashion,Easy T-Shirt Prime
+SPOR-0061,Sports,New Football Elite
+MAKE-0035,Makeup,Ultra Lipstick One
+SPOR-0062,Sports,Mega Backpack One
+FASH-0066,Fashion,Best T-Shirt Pro
+GARD-0019,Garden,Ultra Flower Seeds Prime
+ELEC-0085,Electronics,Best Headphones Prime
+SPOR-0063,Sports,New Football One
+SPOR-0064,Sports,Ultra Dumbbell Go
+ELEC-0086,Electronics,Pro Laptop Plus
+BOOK-0066,Books,Pro Biography X
+BOOK-0067,Books,Mega Cookbook Max
+ELEC-0087,Electronics,Ultra Headphones X
+SPOR-0065,Sports,Mega Dumbbell X
+ELEC-0088,Electronics,Best Tablet Prime
+SPOR-0066,Sports,Eco Running Shoes Go
+ELEC-0089,Electronics,Pro Headphones Elite
+MAKE-0036,Makeup,Easy Foundation Elite
+SPOR-0067,Sports,Pro Yoga Mat Pro
+GARD-0020,Garden,Easy Garden Hose X
+GARD-0021,Garden,Quick Garden Hose One
+SPOR-0068,Sports,Smart Running Shoes Air
+MAKE-0037,Makeup,Ultra Eyeliner Lite
+BOOK-0068,Books,Eco Science Book Pro
+BOOK-0069,Books,Super Science Book Go
+FASH-0067,Fashion,Smart T-Shirt Go
+FASH-0068,Fashion,Ultra Jeans Pro
+FASH-0069,Fashion,Eco Dress Air
+BOOK-0070,Books,Super History Book Elite
+BOOK-0071,Books,Ultra Cookbook Pro
+ELEC-0090,Electronics,Best Tablet Pro
+SPOR-0069,Sports,Eco Running Shoes Max
+SPOR-0070,Sports,Quick Dumbbell Lite
+SPOR-0071,Sports,Pro Running Shoes Pro
+ELEC-0091,Electronics,Best Tablet Max
+ELEC-0092,Electronics,New Smartwatch Go
+ELEC-0093,Electronics,Mega Smartphone Prime
+FASH-0070,Fashion,Ultra Jacket One
+ELEC-0094,Electronics,Best Smartphone Lite
+ELEC-0095,Electronics,Ultra Smartwatch Air
+FASH-0071,Fashion,Pro Jacket Elite
+FASH-0072,Fashion,Best T-Shirt Pro
+ELEC-0096,Electronics,Smart Smartphone Go
+GARD-0022,Garden,Pro Garden Hose One
+ELEC-0097,Electronics,Super Tablet Plus
+FASH-0073,Fashion,Ultra Sneakers Prime
+SPOR-0072,Sports,Smart Football One
+FASH-0074,Fashion,Mega T-Shirt X
+BOOK-0072,Books,Smart Science Book Pro
+ELEC-0098,Electronics,Quick Laptop X
+MAKE-0038,Makeup,Super Lipstick X
+SPOR-0073,Sports,New Yoga Mat Go
+GARD-0023,Garden,New Garden Hose Plus
+BOOK-0073,Books,Super History Book Max
+SPOR-0074,Sports,Best Football Air
+FASH-0075,Fashion,Best Jeans One
+SPOR-0075,Sports,Eco Running Shoes Air
+FASH-0076,Fashion,Eco Jeans Go
+MAKE-0039,Makeup,Mega Lipstick Elite
+ELEC-0099,Electronics,Ultra Smartwatch Air
+FASH-0077,Fashion,Best Dress Max
+ELEC-0100,Electronics,Easy Smartwatch One
+SPOR-0076,Sports,Pro Running Shoes Plus
+BOOK-0074,Books,Mega Biography One
+SPOR-0077,Sports,Mega Dumbbell Elite
+ELEC-0101,Electronics,Smart Smartphone Air
+MAKE-0040,Makeup,Pro Foundation One
+ELEC-0102,Electronics,Eco Smartwatch Pro
+MAKE-0041,Makeup,Ultra Lipstick Max
+GARD-0024,Garden,Eco Garden Hose Lite
+ELEC-0103,Electronics,Eco Laptop Plus
+FASH-0078,Fashion,Easy Jeans Max
+GARD-0025,Garden,Smart Soil Bag Max
+FASH-0079,Fashion,Quick Dress X
+BOOK-0075,Books,Quick Science Book Air
+FASH-0080,Fashion,Ultra Dress Lite
+BOOK-0076,Books,Best Science Book One
+GARD-0026,Garden,Eco Garden Hose Air
+ELEC-0104,Electronics,Best Smartphone Plus
+SPOR-0078,Sports,Pro Football One
+GARD-0027,Garden,Eco Soil Bag Air
+MAKE-0042,Makeup,New Mascara Go
+ELEC-0105,Electronics,New Tablet Elite
+FASH-0081,Fashion,Best T-Shirt Lite
+ELEC-0106,Electronics,Super Smartphone Go
+ELEC-0107,Electronics,Best Headphones Lite
+ELEC-0108,Electronics,Pro Smartphone X
+FASH-0082,Fashion,Quick Jacket Go
+ELEC-0109,Electronics,Eco Laptop Plus
+BOOK-0077,Books,Pro Science Book Elite
+BOOK-0078,Books,Easy History Book Go
+ELEC-0110,Electronics,Pro Smartphone X
+GARD-0028,Garden,New Pruning Shears Lite
+MAKE-0043,Makeup,Ultra Lipstick Plus
+SPOR-0079,Sports,Easy Running Shoes Plus
+ELEC-0111,Electronics,Smart Smartwatch Air
+BOOK-0079,Books,Eco Cookbook Elite
+FASH-0083,Fashion,Quick Jeans Lite
+BOOK-0080,Books,Quick Biography Go
+SPOR-0080,Sports,Smart Yoga Mat X
+SPOR-0081,Sports,New Running Shoes Elite
+BOOK-0081,Books,Ultra Novel Elite
+SPOR-0082,Sports,Quick Football One
+FASH-0084,Fashion,Eco T-Shirt X
+ELEC-0112,Electronics,Pro Tablet Prime
+BOOK-0082,Books,Ultra Cookbook Go
+ELEC-0113,Electronics,Super Smartphone Prime
+SPOR-0083,Sports,Best Backpack Prime
+BOOK-0083,Books,Ultra Biography Go
+ELEC-0114,Electronics,Smart Headphones Go
+SPOR-0084,Sports,Best Running Shoes X
+BOOK-0084,Books,Smart Novel Lite
+ELEC-0115,Electronics,New Tablet Max
+ELEC-0116,Electronics,Best Smartphone X
+MAKE-0044,Makeup,Mega Eyeliner Go
+BOOK-0085,Books,Mega Cookbook Plus
+MAKE-0045,Makeup,Mega Blush Elite
+SPOR-0085,Sports,Ultra Dumbbell Lite
+SPOR-0086,Sports,Best Dumbbell Lite
+ELEC-0117,Electronics,Pro Smartwatch Pro
+FASH-0085,Fashion,Easy Jeans Lite
+ELEC-0118,Electronics,Easy Tablet Prime
+FASH-0086,Fashion,Mega Jacket Lite
+MAKE-0046,Makeup,Mega Foundation Pro
+ELEC-0119,Electronics,Eco Headphones Max
+GARD-0029,Garden,New Pruning Shears Plus
+ELEC-0120,Electronics,Eco Laptop Prime
+MAKE-0047,Makeup,Easy Eyeliner Elite
+FASH-0087,Fashion,Easy T-Shirt Elite
+ELEC-0121,Electronics,Quick Smartwatch Pro
+MAKE-0048,Makeup,Easy Lipstick One
+MAKE-0049,Makeup,Easy Blush Go
+GARD-0030,Garden,New Plant Pot Elite
+ELEC-0122,Electronics,Best Tablet Elite
+SPOR-0087,Sports,Super Yoga Mat Lite
+ELEC-0123,Electronics,Quick Headphones Pro
+ELEC-0124,Electronics,New Smartphone Plus
+FASH-0088,Fashion,New T-Shirt Air
+GARD-0031,Garden,Super Flower Seeds Plus
+MAKE-0050,Makeup,Pro Lipstick Go
+BOOK-0086,Books,Mega Science Book Air
+MAKE-0051,Makeup,New Lipstick Prime
+MAKE-0052,Makeup,Ultra Mascara Air
+FASH-0089,Fashion,Mega Jeans Go
+ELEC-0125,Electronics,Best Smartphone Air
+ELEC-0126,Electronics,Mega Smartwatch Elite
+ELEC-0127,Electronics,Easy Tablet Pro
+BOOK-0087,Books,Super Science Book Max
+ELEC-0128,Electronics,Super Headphones Go
+ELEC-0129,Electronics,Eco Tablet X
+SPOR-0088,Sports,Pro Dumbbell Lite
+ELEC-0130,Electronics,Quick Laptop Max
+MAKE-0053,Makeup,New Mascara Go
+FASH-0090,Fashion,Easy Jacket Plus
+ELEC-0131,Electronics,Mega Laptop Air
+MAKE-0054,Makeup,Quick Eyeliner Elite
+SPOR-0089,Sports,Best Yoga Mat Prime
+SPOR-0090,Sports,Super Dumbbell One
+FASH-0091,Fashion,Easy Jacket Max
+ELEC-0132,Electronics,Pro Smartwatch One
+FASH-0092,Fashion,Super T-Shirt Lite
+BOOK-0088,Books,Smart Cookbook One
+FASH-0093,Fashion,Super Dress Go
+ELEC-0133,Electronics,Eco Smartphone Air
+ELEC-0134,Electronics,Ultra Smartphone Lite
+ELEC-0135,Electronics,Best Smartphone X
+ELEC-0136,Electronics,Eco Laptop Pro
+SPOR-0091,Sports,Smart Running Shoes Go
+MAKE-0055,Makeup,Smart Eyeliner Lite
+ELEC-0137,Electronics,Super Laptop Go
+SPOR-0092,Sports,Mega Yoga Mat Go
+BOOK-0089,Books,Easy Science Book Prime
+ELEC-0138,Electronics,Mega Laptop Plus
+ELEC-0139,Electronics,Eco Laptop Elite
+SPOR-0093,Sports,Best Backpack Go

@@ -44,14 +44,42 @@ category_counters = {
     "Sports": 0
 }
 
-selected_category = np.random.choice(
-    list(categories.keys()),
-    p=list(categories_weights.values())
-)
+products_ids = []
+product_categories = []
+product_names = []
 
-category_counters[selected_category] += 1
+for _ in range(N_PRODUCTS):
+    selected_category = np.random.choice(
+        list(categories.keys()),
+        p=list(categories_weights.values())
+    )
 
-product_id = f"{category_prefixes[selected_category]}-{str(category_counters[selected_category]).zfill(4)}"
-product_name = f"{np.random.choice(prefixes)} {np.random.choice(categories[selected_category])} {np.random.choice(suffixes)}"
+    category_counters[selected_category] += 1
 
-print(product_id, selected_category, product_name)
+    product_id = f"{category_prefixes[selected_category]}-{str(category_counters[selected_category]).zfill(4)}"
+    product_name = f"{np.random.choice(prefixes)} {np.random.choice(categories[selected_category])} {np.random.choice(suffixes)}"
+
+    products_ids.append(product_id)
+    product_categories.append(selected_category)
+    product_names.append(product_name)
+
+# print(len(products_ids), len(product_categories), len(product_names)) Test if all lists have the same length
+
+print("Sample products:")
+print(products_ids[:5])
+print(product_categories[:5])
+print(product_names[:5])
+
+products_df =pd.DataFrame({
+    "product_id": products_ids,
+    "category": product_categories,
+    "product_name": product_names
+})
+
+print(products_df.head())
+
+print(products_df["category"].value_counts())
+
+products_df.to_csv("data/raw/products.csv", index=False)
+
+print("Products dataset generated and saved to data/raw/products.csv")
